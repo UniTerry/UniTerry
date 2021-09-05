@@ -1,4 +1,3 @@
-I'm an amateur game developer and I use Unity to make my dumb little games.
-I also have a youtube channel where I make videos about said games so maybe give that a watch.
+I'm a beginner developer with a passion for video games and little experience in making them. I use the Unity Engine to make my games and I will publish here ocassional devlogs showing the progress on my most recent project. 
 
 https://www.youtube.com/channel/UCI7t9olc96VgpbmgULkvePA
